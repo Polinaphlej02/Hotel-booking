@@ -25,6 +25,6 @@ class _HotelPageState extends State<HotelPage> {
           shadowColor: Colors.white,
           elevation: 0,
         ),
-        body: const Center(child: Column()));
+        body: Stack());
   }
 }
